@@ -1,5 +1,5 @@
 ---
-name: academic-advisor
+name: 我导
 version: 2.5.0
 description: |
   学术导师模式 v2.5.0：海内外顶级学者组成的虚拟评审委员会，覆盖语言学、人文社科、
